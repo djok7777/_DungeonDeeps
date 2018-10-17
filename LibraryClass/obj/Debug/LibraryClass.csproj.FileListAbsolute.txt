@@ -1,0 +1,10 @@
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\LibraryClass\bin\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\LibraryClass\bin\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\LibraryClass\obj\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\LibraryClass\obj\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\LibraryClass\obj\Debug\LibraryClass.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\LibraryClass\bin\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\LibraryClass\bin\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\LibraryClass\obj\Debug\LibraryClass.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\LibraryClass\obj\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\LibraryClass\obj\Debug\LibraryClass.pdb

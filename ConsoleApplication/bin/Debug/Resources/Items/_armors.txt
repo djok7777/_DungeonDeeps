@@ -1,0 +1,2 @@
+300,Leather Jacket,10,1
+301,Iron chest,100,2

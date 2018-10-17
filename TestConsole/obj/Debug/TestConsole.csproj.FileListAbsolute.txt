@@ -1,0 +1,8 @@
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\bin\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\bin\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\TestConsole\obj\Debug\TestConsole.pdb

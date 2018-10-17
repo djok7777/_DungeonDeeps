@@ -1,0 +1,16 @@
+#POTION_BEGIN#
+101, Red potion, 50, 20
+102, Orange potion, 200, 40
+103, White Potion, 500, 100
+120, Blue potion, 300, 10
+#POTION_END#
+
+#SWORD_BEGIN#
+200, Wood sword, 200, 10
+201, Iron sword, 1000, 20
+#SWORD_END#
+
+#ARMOR_BEGIN#
+300,Leather Jacket,10,1
+301,Iron chest,100,2
+#ARMOR_END#

@@ -1,0 +1,16 @@
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\bin\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\Game\ConsoleApplication\bin\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\bin\Debug\LibraryClass.dll
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\bin\Debug\LibraryClass.pdb
+C:\Users\MiguelAngel\Documents\Visual Studio 2015\Projects\_DungeonDeeps\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

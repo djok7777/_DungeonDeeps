@@ -1,0 +1,4 @@
+101, Red potion, 50, 20
+102, Orange potion, 200, 40
+103, White Potion, 500, 100
+120, Blue potion, 300, 10

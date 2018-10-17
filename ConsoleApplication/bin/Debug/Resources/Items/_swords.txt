@@ -1,0 +1,2 @@
+200, Wood sword, 200, 10
+201, Iron sword, 1000, 20
